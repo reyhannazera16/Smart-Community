@@ -1,0 +1,26 @@
+{
+  "menu": [
+    {
+      "menuHeader": "Hasil"
+    },
+
+    {
+      "url": "/",
+      "name": "Peta",
+      "icon": "menu-icon tf-icons ti ti-map",
+      "slug": "Peta"
+    },
+    {
+      "url": "Metode",
+      "name": "Penelitian",
+      "icon": "menu-icon ti ti-picture-in-picture-top",
+      "slug": "Metode"
+    },
+    {
+      "url": "dokumentasi",
+      "icon": "menu-icon tf-icons ti ti-file-description",
+      "name": "Dokumentasi",
+      "slug": "dokumentasi"
+    }
+  ]
+}
